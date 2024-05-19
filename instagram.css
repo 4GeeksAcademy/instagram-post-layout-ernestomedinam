@@ -1,0 +1,13 @@
+.nav-pills .nav-link.active {
+    background-color: white !important;
+    color: #0d6efd !important;
+}
+
+.nav-pills .nav-link {
+    color: #6c757d !important;
+}
+
+.row {
+    --bs-gutter-x: 0.25rem;
+    --bs-gutter-y: 0.25rem;
+}
